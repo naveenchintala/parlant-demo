@@ -3,6 +3,7 @@ import urllib.request
 import json
 import ssl
 import sys
+# Author: Naveen Chintala
 import os
 
 # Allow unverified context just in case (for old python/certs)
