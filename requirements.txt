@@ -1,0 +1,11 @@
+parlant
+python-dotenv
+termcolor
+langchain
+langchain-openai
+chromadb
+fastapi
+uvicorn
+
+
+

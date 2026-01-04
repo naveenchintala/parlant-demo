@@ -1,0 +1,35 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Parlant data
+parlant-data/
+*.log
+
+# Downloaded binaries
+python/
+python_dist.tar.gz
+node-v*/
+node-v*.tar.gz
+
+# Misc
+.DS_Store
+agent_id.txt
+nohup.out
